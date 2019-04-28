@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeinaApp</string>
+    <string-array name="options">
+        <item name="napoje">Napoje</item>
+        <item name="przekąski">Przekąski</item>
+        <item name="kafeterie">Kafeterie</item>
+    </string-array>
+    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
+</resources>
